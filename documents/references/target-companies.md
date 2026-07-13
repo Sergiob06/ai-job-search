@@ -6,27 +6,28 @@ Companies that match my profile and career goals.
 
 # Local Area - Gandía and surroundings
 
-Companies located near Gandía, Oliva, Tavernes, Xeraco and nearby areas.
-
 | Company | Location | Type | Technologies | Priority | Status |
 |---|---|---|---|---|---|
-| | | | | | |
+| Sklum | Villalonga | E-commerce / Technology | Web, PHP, JavaScript | High | Research |
+| Ale-Hop | Bellreguard | Retail / Internal IT | Web, Systems, IT | Medium | Research |
+| ODEC | Gandía | Technology / Software | Software development | High | Research |
+| Insyde | Gandía area | IT Services | Web, Systems | High | Research |
+| AuraQuantic | Valencia | Software Platform | Java, Web technologies | High | Research |
 
 ---
 
 # Valencia Area
 
-Companies located in Valencia and surrounding areas.
-
 | Company | Location | Type | Technologies | Priority | Status |
 |---|---|---|---|---|---|
-| | | | | | |
+| Nunsys | Valencia | IT Consulting | Software, Cloud, Systems | High | Research |
+| Sothis | Valencia | Technology Consulting | Cloud, Software, Data | High | Research |
+| Aitana | Valencia | ERP / Software | Web, Business software | Medium | Research |
+| Avantio | Valencia | SaaS | Web technologies | High | Research |
 
 ---
 
 # Remote Companies
-
-Remote-friendly companies in Spain or internationally.
 
 | Company | Location | Type | Technologies | Priority | Status |
 |---|---|---|---|---|---|
@@ -50,13 +51,13 @@ Source:
 
 ## Why this company fits my profile
 
-- 
+-
 
 ---
 
 ## Technologies used
 
-- 
+-
 
 ---
 
