@@ -10,30 +10,93 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ## Ready-Made STAR Examples
 
-<!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
+### 1. Bellreguard Basket Web Application (Full-Stack Development)
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+**S:** As my final project for the Higher National Diploma in Web Application Development (DAW), I developed a complete web application for a local basketball club that needed a centralized platform to manage teams, players, matches, statistics and merchandising.
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+**T:** My responsibility was to design, develop and deploy a production-ready application that administrators could use daily while providing a responsive website for club members and visitors.
 
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+**A:** I designed the MySQL database, developed the backend with Laravel following the MVC architecture, built the frontend, implemented authentication and role-based permissions, created an administration panel, managed image uploads and deployed the application to a Linux server using Nginx and HTTPS. During deployment I resolved configuration, dependency and server issues until everything worked correctly.
+
+**R:** The application was successfully deployed and is available online at https://cbbellreguard.es. The project strengthened my full-stack development, deployment and problem-solving skills.
+
+**Use for:** "Tell me about a project you're proud of", "Describe a full-stack project you've worked on"
+
+---
+
+### 2. Production Deployment Troubleshooting (Problem Solving)
+
+**S:** During the deployment of my Laravel application to a production server, the website was not working correctly due to server configuration and environment issues.
+
+**T:** I needed to identify the root cause, configure the production environment correctly and make the application available online.
+
+**A:** I reviewed server logs, corrected Laravel environment variables, configured Nginx, solved PHP and Composer compatibility issues, rebuilt frontend assets and verified database connectivity until the application worked correctly.
+
+**R:** The application was deployed successfully and became fully operational. I gained valuable experience troubleshooting Linux servers and production deployments.
+
+**Use for:** "Tell me about a technical challenge", "Describe a problem you solved"
+
+---
+
+### 3. Internship at ADW Solutions (Learning New Technologies)
+
+**S:** During my internship at ADW Solutions I joined a professional development environment where I had to quickly adapt to existing projects and unfamiliar technologies.
+
+**T:** My objective was to contribute to client projects while learning the company's development workflow and improving my technical skills.
+
+**A:** I worked with WordPress and Elementor, collaborated on website improvements, applied SEO and performance optimisation practices, maintained responsive layouts and became familiar with Angular and Spring Boot through the company's development environment.
+
+**R:** I successfully completed the internship, strengthened my understanding of professional web development workflows and improved my ability to learn new technologies quickly.
+
+**Use for:** "Tell me about your internship", "How do you learn new technologies?"
+
+---
+
+### 4. Learning Independently (Self-Learning)
+
+**S:** Throughout my studies I often encountered technologies and deployment challenges that had not been fully covered in class.
+
+**T:** I needed to learn these technologies independently to complete my projects successfully.
+
+**A:** I researched documentation, experimented with different solutions, used Git for version control, tested changes incrementally and documented what I learned while building my projects.
+
+**R:** I completed several projects successfully, expanded my technical stack beyond the classroom and developed confidence in solving unfamiliar technical problems independently.
+
+**Use for:** "How do you approach learning?", "Describe a time you had to teach yourself something"
 
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
+
+## STAR Candidates (Complete Manually)
+
+### Angular + Spring Boot development track (ADW Solutions internship)
+**Source:** CV - Full Stack Developer Internship, ADW Solutions
+**What happened:** Collaborated on custom web application development using Angular for frontend and Java Spring Boot for backend, following MVC architecture and OOP principles.
+**Why it matters:** Answers questions about full-stack collaboration, following architectural patterns, and frontend/backend integration.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### WordPress SEO/WPO optimisation track (ADW Solutions internship)
+**Source:** CV - Full Stack Developer Internship, ADW Solutions
+**What happened:** Managed and optimised WordPress + Elementor sites with a focus on SEO on-page and Web Performance Optimisation (WPO) to improve organic ranking.
+**Why it matters:** Answers questions about working independently on a distinct technical track, measurable performance/ranking outcomes, and versatility across two different tech stacks in parallel.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Sports Management Web Application - Bellreguard Basket (Laravel personal project)
+**Source:** CV - Independent project, cbbellreguard.es
+**What happened:** Designed, built, and deployed a full-stack Laravel + MySQL system for a basketball club end-to-end - database design, backend (MVC), frontend, role-based authentication/authorization, admin panel, REST API, image upload/storage, and production deployment on a Linux server with Nginx and HTTPS, including post-deployment debugging and maintenance.
+**Why it matters:** Answers questions about self-directed projects, full-stack ownership from database to production, DevOps/deployment experience (Docker in development, Linux/Nginx/HTTPS in production), and handling real users after launch (maintenance, debugging).
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
 
 ## Common Tough Questions
 

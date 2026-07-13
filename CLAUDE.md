@@ -1,10 +1,10 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Sergio Bonillo
 
 <!-- SETUP: This file is populated by running /setup -->
 <!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Sergio Bonillo, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,65 +16,69 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** Sergio Bonillo
+- **Location:** Gandia, Valencia, Spain (prefers on-site/hybrid in Gandia/Valencia region; open to fully remote roles anywhere in Spain; not open to relocation abroad)
+- **Languages:** Spanish (Native), Valencian (C1/Native), English (B2)
+- **Status:** Open to work
+- **LinkedIn headline:** "Full Stack Developer"
 
 ### Education
 <!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** (completed 2026, final grade 7.75) - IES María Enríquez, Gandia
+  - Topics: Web development in client and server environments, databases, systems, web deployment, interface design
+- **Bachillerato** (completed 2023) - IES Tirant lo Blanc, Gandia
 
 ### Professional Experience
 <!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Full Stack Developer (Internship)** (2025 - 2026, 6 months) - **ADW Solutions** (Valencia)
+  - Collaborated on custom web application development using Angular (frontend) and Java Spring Boot (backend), following MVC architecture and OOP principles
+  - Managed and optimised WordPress + Elementor sites focused on SEO on-page and Web Performance Optimisation (WPO) to improve organic ranking
+  - Version control with Git/GitHub, collaborated with cross-functional teams; basic application deployments on AWS
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Backend:** Java (Spring Boot), PHP (Laravel), RESTful API development, Authentication and Authorization, MVC, OOP
+- **Frontend:** Angular, JavaScript, HTML5, CSS3, Responsive Web Design, Vite, WordPress, Elementor
+- **Databases:** MySQL, database design
+- **DevOps:** Docker, Linux (Ubuntu/WSL), Nginx, deployment and server configuration, Basic AWS (EC2, RDS)
+- **Tools:** Git, GitHub, Composer, Agile
+- **Domain:** Full-stack web application development, SEO on-page, Web Performance Optimisation (WPO)
 
 ### Certifications
 <!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- None beyond the DAW degree and B2 English certification
 
 ### Publications
 <!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- None
 
 ### Awards
 <!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- None yet
 
 ### Behavioral Profile
 <!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Adaptable** - No fixed preference between structured and autonomous work; matches the mode to what the task requires
+- **Risk-calibrated decision-maker** - Moves fast on low-stakes/reversible decisions, slows down to research for high-stakes ones
+- **Strengths:** Direct, context-rich communication (comfortable both live in meetings and in written documentation); versatility shown by handling two parallel technical tracks (Angular/Spring Boot dev + WordPress SEO/WPO) during the internship
+- **Growth areas:** Still building independent judgment on ambiguous, high-stakes technical calls; actively seeks mentorship to accelerate this
+- **Thrives in:** Environments with reasonably clear (if evolving) priorities, regular feedback loops, and a mix of new feature work plus enough maintenance to stay grounded in the product
 
 ### What Excites You
 <!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Learning new frameworks and technologies
+- Building full products end-to-end (frontend + backend + deployment)
+- Mentorship and working alongside senior developers
+- Performance/SEO optimisation work
 
 ### Target Sectors
 <!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Software/SaaS/product companies: Sklum, Ale-Hop, Mercadona Tech
+- Technology consultancies: NTT DATA, Capgemini, Accenture, Sopra Steria, Inetum
 
 ### Deal-breakers
 <!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- No unpaid or underpaid roles (baseline expectation ~24,000-28,000 EUR gross/year)
+- No long relocation-required contracts abroad
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

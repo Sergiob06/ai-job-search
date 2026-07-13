@@ -106,11 +106,11 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 **Create 2-3 profile statement templates for your main role types:**
 
 <!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Full Stack / Web Developer roles:**
+> Junior Full Stack Developer with a Higher National Diploma in Web Application Development (DAW). I enjoy building complete web applications from database design to deployment. I have experience with Java, Spring Boot, Laravel, Angular, MySQL and Docker through academic projects, my internship and personal development work. I am looking for a junior software engineering role where I can continue learning, contribute to real products and grow alongside experienced developers.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Backend Developer (Java/PHP) roles:**
+> Backend-focused developer with hands-on experience in Java (Spring Boot) and PHP (Laravel), following MVC architecture and OOP principles. Built and shipped a full relational-database-backed system (Sports Management Web App) independently, alongside internship experience integrating backend services with an Angular frontend. Comfortable owning the server side of a product from database design through deployment.
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.

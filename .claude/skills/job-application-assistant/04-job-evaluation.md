@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Angular, Java/Spring Boot, PHP/Laravel, JavaScript, HTML5/CSS3, MySQL, database design, RESTful API development, Authentication/Authorization, MVC/OOP, Git/GitHub, WordPress/Elementor, SEO on-page, Web Performance Optimisation (WPO), Docker, Linux (Ubuntu/WSL), Nginx, deployment and server configuration, Responsive Web Design, Composer, Vite
+**Moderate match areas:** Basic AWS (EC2, RDS), Agile ways of working (internship-level exposure, not deep process ownership)
+**Weak match areas:** Automated testing/QA frameworks, CI/CD pipelines (beyond basic Docker/Nginx deployment), advanced cloud architecture, mobile development
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Junior full-stack web developer roles (Angular + Spring Boot); junior PHP/Laravel developer roles
+**Moderate:** Junior backend/Java developer roles; junior frontend developer roles; WordPress/SEO specialist roles
+**Entry-level:** Broader "Junior Software Engineer" roles at consultancies (NTT DATA, Capgemini, Accenture, Sopra Steria, Inetum) where the stack may differ from direct experience but the level is right
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -63,19 +63,21 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Build a career as a full-stack or backend-leaning software developer
+- Gain mentorship early on to build calibrated technical judgment quickly
+- Broaden from Angular/Spring Boot and PHP/Laravel toward stronger software engineering practices (testing, CI/CD, cloud)
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+- Tasks that energize: Learning new frameworks/tech, building full products end-to-end, mentorship from senior developers, feature development, performance/SEO optimisation work
+- Tasks that drain: Purely repetitive maintenance-only work with no new development, rigid bureaucracy with slow approvals, isolated solo work with no feedback, requirements that shift constantly with no anchor at all
+- Non-task factors: availability of mentorship, feedback culture, reasonably clear (if evolving) priorities
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Recent graduate (DAW, 2026) entering the job market; targets a paid junior role at market rate, baseline ~24,000-28,000 EUR gross/year; no unpaid or underpaid roles
+- **Flexibility**: Based in Gandía (Valencia). Prefers on-site or hybrid roles in Gandía/Valencia region; open to fully remote roles anywhere in Spain; not open to relocation-required contracts abroad
+- **Professional development**: Early career - prioritizes mentorship and growth opportunities over role prestige
+
+**Target sectors/companies to watch:** Software companies, SaaS, technology consultancies, and product-based companies in Valencia/Gandía and remote across Spain, including Sklum, Ale-Hop, Mercadona Tech, NTT DATA, Capgemini, Accenture, Sopra Steria, and Inetum.
 
 ### 6. Salary Benchmark (Optional)
 
